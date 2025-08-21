@@ -39,9 +39,9 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hari-bala-krishnan-847905324/)  
 - 📧 Email: techiehari18hk@gmail.com
 
 ---
 
-⭐️ From [Hari](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Hari](Hari-bala-k)
