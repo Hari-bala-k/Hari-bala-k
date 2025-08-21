@@ -21,7 +21,7 @@
 ---
 
 ## 📈 GitHub Stats  
-![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![Hari's GitHub stats](https://github.com/Hari-bala-k/Hari-bala-k/blob/main/README.md?plain=1)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
 
 ---
