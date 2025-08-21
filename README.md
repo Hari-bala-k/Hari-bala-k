@@ -26,7 +26,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
 
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/iwVJTAj4J8/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank)]([https://www.hackerrank.com/YOUR_HACKERRANK](https://www.hackerrank.com/profile/techiehari18hk))  
 
+---
 ## 📂 Featured Projects  
 - 📝 **[Trello-like Task Manager](https://github.com/YOUR_GITHUB_USERNAME/trello-task-manager)** – A project management app in Java  
 - 💊 **[Online Health Monitoring System](https://github.com/YOUR_GITHUB_USERNAME/health-monitoring)** – Full-stack app with React, Node.js, MySQL  
