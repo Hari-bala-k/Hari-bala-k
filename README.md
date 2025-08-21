@@ -22,8 +22,8 @@
 
 ## 📈 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
