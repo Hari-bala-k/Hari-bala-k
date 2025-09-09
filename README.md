@@ -18,7 +18,6 @@
 - **Databases:** MySQL  
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
 
----
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
