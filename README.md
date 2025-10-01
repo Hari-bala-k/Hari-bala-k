@@ -16,8 +16,6 @@
 - **Frameworks:** Node.js, React.js  
 - **Databases:** MySQL  
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
-
-
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/iwVJTAj4J8/)  
