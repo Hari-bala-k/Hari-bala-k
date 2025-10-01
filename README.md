@@ -8,7 +8,6 @@
 - 💡 Interested in **Backend Development**, **System Design**, and **Problem Solving**  
 - 📚 Currently learning **Data Structures & Algorithms in Java**  
 - 🌱 Exploring **Full-Stack Projects** with **React, Node.js, and MySQL**  
-- 🎯 Goal: To crack developer roles in top companies (FAANG-level prep 🚀)  
 
 ---
 
@@ -22,7 +21,7 @@
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/iwVJTAj4J8/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank)]([https://www.hackerrank.com/YOUR_HACKERRANK](https://www.hackerrank.com/profile/techiehari18hk))  
+[![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/techiehari18hk)  
 
 ---
 ## 📂 Featured Projects  
