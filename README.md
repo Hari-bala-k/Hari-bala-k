@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hari Bala Krishnan
+# Hi 👋, I'm Hari Bala Krishnan K
 🚀 Aspiring Java Developer | Final Year Student | Passionate about DSA & Full-Stack Development  
 
 ---
