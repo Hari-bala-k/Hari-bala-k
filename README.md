@@ -17,7 +17,7 @@
 - **Databases:** MySQL  
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/hari-bala-krishnan)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/iwVJTAj4J8/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/techiehari18hk)  
 
