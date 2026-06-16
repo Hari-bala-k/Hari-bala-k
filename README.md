@@ -54,7 +54,7 @@ A responsive portfolio website showcasing projects, technical skills, and achiev
 
 **Tech:** HTML, CSS, JavaScript
 
-🔗 Live Demo: YOUR_PORTFOLIO_LINK
+🔗 Live Demo:https://hari-bala-k.github.io/Portfolio-Web/
 
 ### 🛒 ShopNova – Premium Shopping Experience
 
