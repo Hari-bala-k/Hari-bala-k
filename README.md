@@ -1,18 +1,18 @@
 # Hi 👋, I'm Hari Bala Krishnan K
 
-### ☕ Java Developer | Software Engineer | DSA Enthusiast
+### ☕ Java Developer | Backend Developer | Software Engineer
 
-Passionate about building scalable software solutions using Java and continuously improving problem-solving skills through Data Structures & Algorithms.
+Passionate about building backend applications using Java and Spring Boot. Interested in creating scalable software solutions and continuously improving problem-solving skills through Data Structures & Algorithms.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Java Developer with strong fundamentals in Core Java, Data Structures & Algorithms
+* 🎓 Java Developer with strong fundamentals in Core Java, OOP, and Data Structures & Algorithms
 * 💡 Interested in Backend Development, System Design, and Software Engineering
-* 📚 Actively learning Data Structures & Algorithms using Java
-* 🔍 Exploring Object-Oriented Design, Multithreading, Collections Framework, and Database Management
-* 🚀 Building projects that solve real-world problems and strengthen software development skills
+* 📚 Improving problem-solving skills using Java
+* 🔍 Exploring Spring Boot, REST APIs, Hibernate, JPA, Database Management, and MVC Architecture
+* 🚀 Building real-world projects to strengthen backend development skills
 
 ---
 
@@ -20,53 +20,56 @@ Passionate about building scalable software solutions using Java and continuousl
 
 ### Languages
 
-Java • SQL • JavaScript • HTML • CSS
+Java • SQL • JavaScript
+
+### Backend Development
+
+Spring Boot • REST APIs • Hibernate • JPA • JWT Authentication • MVC Architecture
 
 ### Core Java
 
-OOP • Collections Framework • Exception Handling • Multithreading • File Handling • JDBC
+OOP • Collections Framework • Exception Handling • Multithreading • JDBC
 
 ### Databases
 
-MySQL
-
-### Web Technologies
-
-React.js • Node.js
+MySQL • PostgreSQL
 
 ### Tools
 
-Git • GitHub • IntelliJ IDEA • VS Code
+Git • GitHub • Maven • IntelliJ IDEA • VS Code • Postman
 
 ---
 
 ## 📂 Featured Projects
 
-### 📝 Trello-like Task Management System
+### 💼 Job Portal Application
 
-A Java-based task management application designed using Object-Oriented Programming principles and Low-Level Design concepts. Features task creation, assignment, prioritization, and workflow management.
+A backend Job Portal application developed using Spring Boot with REST APIs and database integration. Implements CRUD operations, MVC architecture, authentication, and efficient backend workflows.
 
-**Tech:** Java, OOP, Collections Framework
+**Tech:** Java, Spring Boot, MySQL, REST APIs, JPA, Hibernate
+
+
+### 🤝 Relink – Hyperlocal Donation Platform
+
+A backend donation platform developed using Spring Boot to manage donation workflows. Implemented secure authentication, REST APIs, database integration, and layered Controller-Service-Repository architecture.
+
+**Tech:** Java, Spring Boot, PostgreSQL, REST APIs, JWT, Hibernate, JPA
+
 
 ### 🌐 Personal Portfolio Website
 
-A responsive portfolio website showcasing projects, technical skills, and achievements with modern UI/UX design and optimized performance.
+A responsive portfolio website showcasing projects, technical skills, and achievements with modern UI design.
 
 **Tech:** HTML, CSS, JavaScript
 
-🔗 Live Demo:https://hari-bala-k.github.io/Portfolio-Web/
+🔗 Live Demo: https://hari-bala-k.github.io/Portfolio-Web/
+
 
 ### 🛒 ShopNova – Premium Shopping Experience
 
-A futuristic eCommerce platform featuring responsive design, product collections, hot deals, and a scalable architecture prepared for future backend integration.
+A futuristic eCommerce platform featuring responsive design, product collections, hot deals, and scalable frontend architecture prepared for backend integration.
 
 **Tech:** HTML, CSS, JavaScript
-
-### 💰 Expense Splitter Application
-
-A Java application that simplifies expense tracking and bill splitting among groups while applying core OOP concepts.
-
-**Tech:** Java
 
 ---
 
@@ -88,13 +91,17 @@ A Java application that simplifies expense tracking and bill splitting among gro
 
 ## 🏆 Coding Profiles
 
+💻 LeetCode: https://leetcode.com/u/iwVJTAj4J8/
+
+🏅 HackerRank: https://www.hackerrank.com/profile/techiehari18hk
+
 ---
 
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/hari-bala-krishnan-847905324/
 
-📧 Email: [techiehari18hk@gmail.com](mailto:techiehari18hk@gmail.com)
+📧 Email: techiehari18hk@gmail.com
 
 ---
 
